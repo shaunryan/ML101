@@ -60,9 +60,9 @@ country_stats.plot(kind="scatter", x="GDP per capita", y="Life satisfaction")
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC 
+# MAGIC
 # MAGIC # Linear Regression
-# MAGIC 
+# MAGIC
 # MAGIC Model based learning
 
 # COMMAND ----------
@@ -85,9 +85,9 @@ print(model.predict(x_new))
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC 
+# MAGIC
 # MAGIC # K-Nearest Neighbors
-# MAGIC 
+# MAGIC
 # MAGIC Instance based learning. Takes the nearest k data points and averages them.
 
 # COMMAND ----------
